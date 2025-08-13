@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Cybergate Crypto
+            Cyptex Block-chain
           </Typography>
           <Typography
             variant="subtitle2"
